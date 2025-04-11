@@ -81,6 +81,8 @@ docker tag api_basecaepi_fastapi-slim joaoaugustomv/api_base_ca_epi:2.0
   - Há o caracter '|' em algumas linhas mas que não são para separação de colunas.O que dificulta a separação correta. Como os CA: 34535 e 42037
   
   - Como foram achados poucos registros com erro, este são tratados individualmente
+ 
+  - force deploy
 
 - Caso ocorra de registros que não conseguiram ser tratados, estes serão adicionados em um arquivo "CAs_com_erros.txt"
 - Por enquanto, não foi achado nenhum registro que tenha um erro que não pode ser tratado. Caso encontre, por favor me avise!
