@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for api-basecaepi on 2025-04-12T01:48:51Z
+# fly.toml app configuration file generated for api-basecaepi-rua0pq on 2025-04-12T02:13:40Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'api-basecaepi'
+app = 'api-basecaepi-rua0pq'
 primary_region = 'gru'
 
 [build]
